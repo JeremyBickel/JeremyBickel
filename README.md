@@ -6,7 +6,7 @@ According to 1 Corinthians 15:1-8 and Romans 10:9-14a, believe 4 things and do 1
 - 💞️ I’m looking to collaborate on Bible parsing.
 - 📫 How to reach me: JeremyBickel@protonmail.com
 - ✍️ My blog is at http://aasmp.blogspot.com
-- My datasets at https://huggingface.co/JWBickel
+- Datasets - https://huggingface.co/JWBickel
 <!---
 JeremyBickel/JeremyBickel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
